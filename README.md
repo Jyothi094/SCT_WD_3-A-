@@ -23,5 +23,4 @@ I built a **multiple-choice quiz game** where users answer questions and receive
   - Multi-select
   - Fill in the blanks (optional)
 
-## 📂 Folder Structure
 
